@@ -1,1 +1,1 @@
-Hey this is the README file for the dev branch of lab 0
+Python and AI programming warm-up exercises completed in Google Colab.
